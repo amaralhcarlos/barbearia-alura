@@ -1,7 +1,10 @@
 body {}
 
+.titulo-principal {
+    padding-left: 20px;
+}
 
-.titulo-centralizado{
+.titulo-centralizado {
     text-align: center;
 }
 
